@@ -1,3 +1,3 @@
 module Keys
-  ACCESS_TOKEN = 'AAACEdEose0cBAPY0Q0abZBPmekOBduoMzGowoXDWKBixuUCbzJq4c8i3aOutev09BBDT2DmM59ALXIe2u3c0JK0Sc2qp4WXrdJbj25ZASb1q7vUbtF'
+  ACCESS_TOKEN = '<your token here>'
 end
